@@ -1,1 +1,3 @@
-# Product_Search
+# Product Search
+
+using HTML CSS & JavaScript 
